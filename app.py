@@ -13,8 +13,8 @@ l.sort()
 l.insert(0, 'India')
 
 select_region = st.sidebar.selectbox('Choose Region Here', l)
-primary = st.sidebar.selectbox('Choose Primary Parameter', df.columns[9:])
-secondary = st.sidebar.selectbox('Choose Secondary Parameter', df.columns[9:])
+primary = st.sidebar.selectbox('Choose Primary Parameter', df.columns[4:])
+secondary = st.sidebar.selectbox('Choose Secondary Parameter', df.columns[4:])
 plot = st.sidebar.button('Plot Map')
 
 if plot:
