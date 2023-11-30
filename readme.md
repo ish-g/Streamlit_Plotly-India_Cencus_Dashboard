@@ -1,6 +1,6 @@
 # India Census Dashboard WebApp
 
-<img height="" src="D:\DATA SCIENTIST\6- PROJECTS\3- Streamlit Plotly India Cencus Dashboard\Capture.PNG" width=""/>
+<img height="" src="Capture.PNG" width=""/>
 
 ## Overview
 
