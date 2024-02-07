@@ -22,7 +22,8 @@ Welcome to the India Census Dashboard WebApp! This interactive dashboard allows 
 
 ### Prerequisites
 
-- Python (version X.X.X)
+- Python
+- Streamlit
 - Install required packages using `pip install -r requirements.txt`
 
 ### Running the Dashboard
